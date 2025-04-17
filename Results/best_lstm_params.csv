@@ -1,2 +1,0 @@
-optimizer,learning_rate,batch_size,epochs
-<class 'keras.src.optimizers.adam.Adam'>,0.01,64,50
